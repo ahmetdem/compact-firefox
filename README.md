@@ -4,7 +4,7 @@ Zen Browser's compact mode with toolbar hidden was my favorite ui for a browser 
 
 ## Video
 
-[Direct link](https://github.com/user-attachments/assets/6b479cb0-07c2-4ac9-9ea9-b61b66312091)
+[Direct link](https://github.com/user-attachments/assets/8437e5fd-6dba-469e-8992-d69edf32509c)
 
 ## Features
 
